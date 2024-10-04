@@ -1,3 +1,3 @@
-# ToDo List
+# PROJETO DA DISCIPLINA DE ENGENHARIA DE SOFTWARE II - API TODO LIST
 
-Trabalho realizado durante a disciplina de engenharia de software 2 do curso de ADS
+
